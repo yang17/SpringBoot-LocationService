@@ -12,7 +12,7 @@
 
 
 
-+ Data Ingestion Service(Java, Spring-boot, Hibernate, RabbitMQ, Maven, Jenkins)
+## Data Ingestion Service(Java, Spring-boot, Hibernate, RabbitMQ, Maven, Jenkins)
 + Lead the design and development for the data ingestion service.
 +  Received and count traffic from location simulator service through RabbitMQ. Packaged with maven and deployed it automatically with Jenkins.
 + Dockerized the system in a Xenserver managed virtual machine
